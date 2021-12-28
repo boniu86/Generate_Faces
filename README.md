@@ -39,5 +39,5 @@ I built a GAN model to generate new faces as instructed, it got me some promisin
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Authors: [To the Notebbok](https://github.com/boniu86/Recommendations_with_IBM/blob/main/Recommendations_with_IBM.ipynb)
+Authors: [To the Notebbok](https://github.com/boniu86/Generate_Faces/blob/main/dlnd_face_generation.ipynb)
 
